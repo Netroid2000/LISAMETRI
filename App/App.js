@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
 });
 
 
-export default class HelloWorldApp extends Component {
+export default class LisaMetriApp extends Component {
 
   render() {
     return (
